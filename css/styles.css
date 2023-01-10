@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E3FDFD;
+}
+
+
+.header{
+    background-color: #E3FDFD;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.middle-container {
+    background-color: #E3FDFD;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.bottom-container {
+    background-color: #E3FDFD;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.h1 {
+    color: #71C9CE;
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 50px;
+}
+
+.h2 {
+    color: #71C9CE;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.h3 {
+    color: #71C9CE;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.first-p {
+    color: #71C9CE;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.ffi-link {
+    color: #71C9CE;
+    font-family: 'Merriweather', cursive;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.about-me {
+    color: #71C9CE;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+
